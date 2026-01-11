@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Optimizer",
+  "description": "Professional tool to transform resumes into ATS-friendly versions perfectly aligned with specific job descriptions using Gemini AI.",
+  "requestFramePermissions": []
+}
